@@ -1,1 +1,1 @@
-karpenkods.github.io/Star_Wars
+karpenkods.github.io/Star_Wars/
