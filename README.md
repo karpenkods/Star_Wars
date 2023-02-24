@@ -1,1 +1,8 @@
-karpenkods.github.io/Star_Wars/
+## Путеводитель  по вселенной Star Wars (обзор всех частей фильма)._
+
+#### Данные берутся с удаленного сервера.
+***
+Сайт: https://karpenkods.github.io/Star_Wars/
+
+
+
